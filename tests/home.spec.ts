@@ -51,9 +51,8 @@ test.describe('Home', () => {
         
         await expect(homeText).toBeEnabled()
 
-        // Verifying action flow
-        //verify add
-        //verify
+      //verify for action in git
+        
         
 
 
